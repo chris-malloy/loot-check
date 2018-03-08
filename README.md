@@ -1,6 +1,6 @@
 # Loot Chek
 
-Description
+This money tracker app is built with React/Redux and tested with Jest and Enzyme.  It was developed to practice TDD and BDD principles.
 
 ***
 
