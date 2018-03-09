@@ -5,6 +5,6 @@ export default (state = 0, action) => {
     case constants.SET_BALANCE:
       return action.balance;
     default: 
-      return balance;
+      return state;
   }
 }
