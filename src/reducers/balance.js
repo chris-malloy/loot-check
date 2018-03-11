@@ -10,5 +10,6 @@ export default (state = 0, action) => {
       return state - action.withdraw;
     default: 
       return state;
+      // eslint-disable-next-line
   };
 };
